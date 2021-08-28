@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trilok-chand
+- 👋 Hi, I’m Trilok Chand
 - 👀 I’m interested in  AI/ML related stuff
 - 🌱 I’m currently learning Algorithms & Principal Of Software Development @ University of San Francisco
 - 💞️ I’m looking to collaborate on any distruted system / project such as Kubernetes etc.
